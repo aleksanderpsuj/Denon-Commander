@@ -4,7 +4,7 @@
 
 ## Prerequisites
 > 1) pip install denonavr
-  Author: https://github.com/scarface-4711/denonavr
+>> Author: https://github.com/scarface-4711/denonavr
 ## Installation
 > 2) Clone repository or download files (Relases)
 > 3) Open config file (config.py) and set up for yourself.
