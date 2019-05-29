@@ -3,7 +3,8 @@
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/xFatal/File-Organizer/) [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
 ## Prerequisites
-> 1) pip install denonavr
+> 1) Python, pip
+> 2) pip install denonavr
 >> Author: https://github.com/scarface-4711/denonavr
 ## Installation
 > 2) Clone repository or download files (Relases)
