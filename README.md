@@ -2,8 +2,10 @@
 #### Manage your denon device from console
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/xFatal/File-Organizer/) [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
-## Installation
+## Prerequisites
 > 1) pip install denonavr
+  Author: https://github.com/scarface-4711/denonavr
+## Installation
 > 2) Clone repository or download files (Relases)
 > 3) Open config file (config.py) and set up for yourself.
 ## Usage
