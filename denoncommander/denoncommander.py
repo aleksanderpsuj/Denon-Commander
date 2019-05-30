@@ -173,8 +173,8 @@ def menu():
     print(
         '____________________________\n'
         ':::', CONFIG.APP.APPLICATION, CONFIG.APP.VERSION, ':::\n'
-                                                           ':::   ', CONFIG.APP.AUTHOR, '  :::\n'
-                                                                                        '¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯'
+        ':::   ', CONFIG.APP.AUTHOR, '  :::\n'
+        '¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯'
     )
 
     print("::: INFO :::")
