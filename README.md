@@ -1,5 +1,6 @@
 # Denon-Commander
 #### Manage your denon device from console
+[![CodeFactor](https://www.codefactor.io/repository/github/xfatal/denon-commander/badge)](https://www.codefactor.io/repository/github/xfatal/denon-commander)
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/xFatal/File-Organizer/) [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
 ## Prerequisites
